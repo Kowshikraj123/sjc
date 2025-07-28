@@ -1,4 +1,2 @@
 # sjc
-kowshik
-dhanush
-dimpal
+hi
